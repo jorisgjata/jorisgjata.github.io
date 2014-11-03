@@ -33,16 +33,20 @@ border: black;
 	font-style: italic;
 }
 
-#projects { 
+#CV { 
 	border-bottom: 1px solid black;
 	}
 	
-#projects h2 { 
+#blog { 
+	border-bottom: 1px solid black;
+	}
+
+#CV h2 { 
 	font-size: 150%;
 	font-style: italic;
 }
 
-#projects h3 { 
+#CV h3 { 
 	font-size: 100%;
 	font-style: normal;
 }
